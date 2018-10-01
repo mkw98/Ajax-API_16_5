@@ -1,6 +1,20 @@
 body {
   margin: 0 auto;
-  background-color: blue;
-  display:block;
+  background-image: url("https://images.pexels.com/photos/262543/pexels-photo-262543.jpeg?auto=compress&cs=tinysrgb&h=350");
+  background-color: #00aced;
+  display: block;
   text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-family: 'Oxygen', sans-serif;
+  color: #1dcaff;
+}
+.box {
+ color: #1dcaff;
+}
+
+h2 {
+	font-family: 'Charmonman', cursive;
 }
